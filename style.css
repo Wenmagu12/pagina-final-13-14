@@ -1,0 +1,16 @@
+strong {color:#00FFFF;}
+em {color:#FAEBD7;}
+body {background:rosybrown;}
+
+#missao {font-size: 40px;}
+
+#banner {width:100%}
+
+p {
+	text-align: center;
+}
+
+h1
+{text-align: center;
+border: 10px solid;
+}
